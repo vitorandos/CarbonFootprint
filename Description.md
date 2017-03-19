@@ -2,10 +2,10 @@ This file contains the description of Carbon Footprint for Google Maps translate
 
 Many thanks to all the translators!
 
-If you would like to contribute a translation to your language 
-(or improve one of the translations shown here), 
-please send it to [MapsCarbonFootprint@gmail.com](mailto:MapsCarbonFootprint@gmail.com). 
-If you know ```git```and ```Github```, 
+If you would like to contribute a translation to your language
+(or improve one of the translations shown here),
+please send it to [MapsCarbonFootprint@gmail.com](mailto:MapsCarbonFootprint@gmail.com).
+If you know ```git```and ```Github```,
 you may also  make a pull request of your contribution.
 
 
@@ -112,15 +112,33 @@ Hindi (hi)
 
 यदि आपके पास टिप्पणियाँ या प्रशन है तो MapsCarbonFootprint@gmail.com पर भेज दे|
 
-अगर आप इस विस्तार को पसंद करते हैं तो इसे अच्छा दर्ज़ा दे, फेसबुक पर पसंद करे (http://www.facebook.com/pages/Carbon-Footprint-for-Google-Maps/217487891623173), +1 करे गूगल+ पर (https://plus.google.com/b/112973863308036008385/112973863308036008385/posts)| 
+अगर आप इस विस्तार को पसंद करते हैं तो इसे अच्छा दर्ज़ा दे, फेसबुक पर पसंद करे (http://www.facebook.com/pages/Carbon-Footprint-for-Google-Maps/217487891623173), +1 करे गूगल+ पर (https://plus.google.com/b/112973863308036008385/112973863308036008385/posts)|
 
 इस विस्तार के बिखरा कर पर्यावरण के प्रति जागरूकता बढ़ाने में हमें मदद करे| चलो पर्यावरण की रक्षा करते हैं, ग्लोबल वॉर्मिंग रुकें तथा ग्रह बचाते है!
+
+
+Brazilian Portuguese (pt_BR)
+-----------
+
+Translated by: Vitor Menezes | vitorandos | http://github.com/vitorandos
+
+(Short: Esta extensão calcula estimativas de emissões de CO2 ao dirigir por rotas sugeridas pelo Google Maps!)
+
+Sempre que você pedir rotas ao Google Maps, essa extensão de navegador automaticamente calcula uma estimativa do total de emissões de CO2 causadas ao dirigir pelas rotas sugeridas. A estimativa é mostrada ao lado da distância total da rota.
+
+Para melhorar a precisão das estimativas, há opções que lhe permitem configurar diversos parâmetros relacionados ao consumo de combustível e ao quanto seu carro é ecológico.
+
+Se você tiver dúvidas ou comentários, por favor mande-os para MapsCarbonFootprint@gmail.com.
+
+Se você gostar dessa extensão, por favor avalie-a bem, curta a nossa página no facebook (http://www.facebook.com/pages/Carbon-Footprint-for-Google-Maps/217487891623173) e dê +1 no Google+ (https://plus.google.com/b/112973863308036008385/112973863308036008385/posts).
+
+Compartilhe essa extensão e nos ajude a aumentar a consciência ambiental! Vamos juntos preservar o meio ambiente, parar o aquecimento global e salvar o nosso planeta!
 
 
 Italian (it)
 -----------
 
-Translated by: 
+Translated by:
 
 (Short: ToDo )
 
@@ -130,7 +148,7 @@ ToDo
 Bielorussian
 ------------
 
-Translated by: 
+Translated by:
 
 (Short: ToDo )
 
