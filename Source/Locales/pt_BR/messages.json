@@ -1,0 +1,185 @@
+{
+  "extName": {
+    "message": "Pegada de Carbono para Google Maps™",
+    "description": "Brazilian Portuguese title"
+  },
+  "extDesc": {
+    "message": "Calcule automaticamente estimativas de emissões de CO2 ao dirigir por rotas sugeridas pelo Google Maps.",
+    "description": "Brazilian Portuguese description"
+  },
+  "mainParah": {
+    "message": "<p>Descubra o quanto de CO<sub>2</sub> é aproximadamente emitido pelo seu carro em rotas sugeridas pelo Google Maps, Open Street Map ou Here Maps. A estimativa de emissão de CO<sub>2</sub> é mostrada ao lado da distância total da rota. Opcionalmente, o custo do combustível também pode ser mostrado.</p>",
+    "description": "The paragraph beside form"
+  },
+  "distanceTravelled": {
+    "message": "Distância Percorrida:"
+  },
+  "fuelConsumed": {
+    "message": "Combustível Consumido:"
+  },
+  "fuelConsumptionUnit": {
+    "message": "Unidades de Consumo de Combustível"
+  },
+  "fuelEfficiency": {
+    "message": "Eficiência do Combustível"
+  },
+  "fuelEfficiencyUnit": {
+    "message": "Unidades da Eficiência do Combustível"
+  },
+  "coEmission": {
+    "message": "Taxa de Emissões de CO<sub>2</sub>:"
+  },
+  "emissionQues": {
+    "message": "Para melhorar a precisão das estimativas, por favor ajuste abaixo a eficiência do combustível, o consumo de combustível ou a taxa de emissões de CO<sub>2</sub> do seu carro."
+  },
+  "byFuelConsumption": {
+    "message": "Consumo de combustível:"
+  },
+  "costCalculator": {
+    "message": "Custo do Combustível"
+  },
+  "coEmissionUnit": {
+    "message": "Unidade de Emissão de CO<sub>2</sub>"
+  },
+  "fuelType": {
+    "message": "Tipo de Combustível:"
+  },
+  "fuelDiesel": {
+    "message": "Diesel"
+  },
+  "fuelPetrol": {
+    "message": "Petrol"
+  },
+  "fuelGasoline": {
+    "message": "Gasolina"
+  },
+  "fuelLPG": {
+    "message": "GPL"
+  },
+  "fuelE10": {
+    "message": "E10"
+  },
+  "fuelE25": {
+    "message": "E25"
+  },
+  "fuelE85": {
+    "message": "E85"
+  },
+  "fuelEthanol": {
+    "message": "Etanol"
+  },
+  "fuelBioDiesel": {
+    "message": "Biodiesel"
+  },
+  "fuelCNG": {
+    "message": "Gás Natural"
+  },
+  "fuelElectricity":{
+    "message": "Eletricidade"
+  },
+  "fuelCost": {
+    "message": "Custo do Combustível:"
+  },
+  "fuelCostUnit": {
+    "message": "em $ por unidade de Volume"
+  },
+  "fuelCostNote": {
+    "message": "'$' denota uma unidade monetária genérica."
+  },
+  "distance": {
+    "message": "Distância"
+  },
+  "volume": {
+    "message": "Volume"
+  },
+  "mass": {
+    "message": "Massa"
+  },
+  "perVolume": {
+    "message": "por Volume"
+  },
+  "perDistance": {
+    "message": "por Distância"
+  },
+  "conversionNote": {
+    "message": "Para obter conversões, modifique as unidades."
+  },
+  "travelCostEstimate": {
+    "message": "Mostrar estimativa de custo de combustível"
+  },
+  "save": {
+    "message": "SALVAR"
+  },
+  "notificationMenu": {
+    "message": "Revisão do Veículo"
+  },
+  "notificationDisplayLabel": {
+    "message": "Mostrar notificação de revisão do veículo"
+  },
+  "notificationLastChekup": {
+    "message": "Data da última revisão:"
+  },
+  "notificationNextChekupNext": {
+    "message": "Próxima revisão em:"
+  },
+  "notificationNextChekupYears": {
+    "message": "anos e"
+  },
+  "notificationNextChekupMonths": {
+    "message": "meses"
+  },
+  "notificationTitle": {
+    "message": "Você deve fazer uma revisão do seu carro"
+  },
+  "notificationMessage": {
+    "message": "A hora que você colocou para a revisão do seu carro passou."
+  },
+  "notificationInfoText": {
+    "message": "Manter revisões frequentes garante que seu carro sempre emitirá o mínimo possível de co₂."
+  },
+  "byFuelEfficiency": {
+    "message": "Eficiência do Combustível"
+  },
+  "byFuelConsumptionPer": {
+    "message": "Consumo de Combustível"
+  },
+  "byCustomValues": {
+    "message": "Valores Personalizados"
+  },
+  "feMessage": {
+    "message": "insira a <i>Distância Percorrida</i> em 1 unidade de <i>Combustível Consumido</i>"
+  },
+  "fcpMessage": {
+    "message": "insira o <i>Combustível Consumido</i> por 100 unidades da <i>Distância Percorrida</i>"
+  },
+  "cvMessage": {
+    "message": "insira o total da <i>Distância Percorrida</i> para o total do <i>Combustível Consumido</i>"
+  },
+  "useMetric": {
+    "message": "Métrico"
+  },
+  "useUSCustomary": {
+    "message": "Medidas Usuais dos EUA"
+  },
+  "saved": {
+    "message": "Salvo com sucesso"
+  },
+  "error": {
+    "message": "Por favor insira um valor válido"
+  },
+  "imperial": {
+    "message": "Imperial"
+  },
+  "greenElectricity": {
+    "message": "Eletricidade Verde:"
+  },
+  "fuelB20": {
+    "message": "B20"
+  },
+  "footprints": {
+    "message": "Pegada de Carbono"
+  },
+  "loadPricesBtn": {
+    "message": "Ver Preço"
+  }
+}
